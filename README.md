@@ -1,13 +1,14 @@
 # MYProject
-# COVID-19 Exploratory Data Analysis (EDA)
+# 1. COVID-19 Exploratory Data Analysis (EDA) 
+# 2.FEBRUARY_sales Exploratory Data Analysis (EDA)
 
-A clean, well-structured Exploratory Data Analysis (EDA) project using a global COVID-19 dataset. This repository demonstrates professional data workflows and advanced skills —from loading and cleaning data to visualizing trends and generating actionable insights.
+A clean, well-structured Exploratory Data Analysis (EDA) project using a global COVID-19 dataset and February sales EDA. This repository demonstrates professional data workflows and advanced skills —from loading and cleaning data to visualizing trends and generating actionable insights.
 
 ---
 
 ## 📌 Project Overview
 
-This project explores global COVID-19 patterns using descriptive statistics, visual analytics, and feature relationships. The goal is to uncover trends, hotspots, and meaningful insights that support data-driven reporting and decision-making.
+This project explores February sales and global COVID-19 patterns using descriptive statistics, visual analytics, and feature relationships. The goal is to uncover trends, hotspots, and meaningful insights that support data-driven reporting and decision-making.
 
 ---
 
